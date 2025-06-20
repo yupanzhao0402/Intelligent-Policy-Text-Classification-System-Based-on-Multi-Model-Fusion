@@ -73,7 +73,8 @@ Licensed under the MIT License.
 ├── test/                     # 测试和预测功能
 │   ├── predict.py            # 预测脚本
 │   └── predict_new.py        # 新数据预测脚本
-├── output_models/            # 训练好的模型
+├── output_models/            # 训练好的模型(由于过大请自行运行，项目具有可复现性)
+├── custom_split.py           # 定制化训练集划分
 ├── install_dependencies.py   # 依赖安装脚本
 ├── requirements.txt          # 依赖库
 ├── data_processor.py         # 数据处理模块
