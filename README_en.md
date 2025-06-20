@@ -234,10 +234,4 @@ If you use this project in your research, please cite it as follows:
 
 ## 📧 Contact
 
-For any questions or suggestions, please contact: zhaoyplab@hit.edu.cn
-
-## 📖 References
-
-1. Devlin, J., et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
-2. Vaswani, A., et al. (2017). Attention Is All You Need.
-3. Ke, G., et al. (2017). LightGBM: A Highly Efficient Gradient Boosting Decision Tree. 
+For any questions or suggestions, please contact: 20240219@hit.edu.cn
