@@ -1,0 +1,43 @@
+# 核心科学计算库
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# 深度学习库
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+transformers==4.52.4
+
+# 机器学习库
+xgboost==3.0.2
+lightgbm==4.4.0
+
+# 工具类库
+tqdm==4.67.1
+joblib==1.5.1
+umap-learn==0.5.7
+opencv-python==4.11.0.86
+openpyxl==3.1.5
+tensorboard==2.19.0
+huggingface-hub==0.32.4
+pillow==10.4.0
+networkx==3.3
+nltk==3.9.1
+gensim==4.3.3
+
+# 可视化与分析
+plotly==5.24.1
+streamlit==1.37.1
+panel==1.5.2
+
+# 工具依赖
+setuptools==75.1.0
+wheel==0.44.0
+pip==24.2
+
+# 为Windows用户的CUDA支持
+# 如果需要CUDA支持，推荐通过conda安装:
+# conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia 
